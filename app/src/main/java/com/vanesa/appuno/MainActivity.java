@@ -6,6 +6,10 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    boolean result = true;
+    string name = "Bob";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
